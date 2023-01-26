@@ -1,9 +1,14 @@
 {
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
+    "@types/bootstrap": "^5.2.6",
     "parcel": "^2.8.3"
   },
   "dependencies": {
-    "@lmdb/lmdb-darwin-x64": "^2.7.6"
+    "@lmdb/lmdb-darwin-x64": "^2.7.6",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "popper.js": "^1.16.1"
   }
 }

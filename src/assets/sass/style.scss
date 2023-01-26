@@ -1,7 +1,9 @@
+@use "./var.scss";
+
 h1{
     color:cadetblue;
 
     strong {
-        color:rgb(226, 43, 98);
+        color: var.$title-color;
     }
 }

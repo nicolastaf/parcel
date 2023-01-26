@@ -1,5 +1,9 @@
 {
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "@lmdb/lmdb-darwin-x64": "^2.7.6"
   }
 }
